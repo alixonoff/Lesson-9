@@ -1,0 +1,44 @@
+@time_ne
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: relative;
+    left:30%;
+    color: rgb(0, 174, 243);
+}
+table{
+    border-collapse: collapse;
+    border: 10px;
+    border: 10px;
+    width: 500px;
+    height: 70px;
+}
+thead{
+    background: rgb(26, 255, 26); 
+    color: white;
+}
+.time{
+    font-family: 'Times New Roman', Times, serif;
+    background:rgba(40, 233, 40, 0.411);
+}
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgba(144, 238, 144, 0.301);
+}
+@import url(https://fonts.googleapis.com/css2?family=Comic+Neue:wght@100;200;300;400;500;600;700&display=swap);
+    
+.comic{
+    font-family: 'Comic Neue';
+     background:rgba(40, 233, 40, 0.411);
+}
+.impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: rgba(144, 238, 144, 0.301);
+}
+.courier{
+    font-family: 'Courier New', Courier, monospace;
+    background:rgba(40, 233, 40, 0.411);
+}

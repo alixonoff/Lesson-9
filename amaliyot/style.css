@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://wallpapers.com/images/file/hd-nature-snowy-mountains-ngdfb9h966h4z3le.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bi-lightbulb-fill{
+    width: 90px;
+    height: 90px;
+    margin: auto;
+    font-size: 300px;
+    text-align: center;
+
+}
+.bi-lightbulb-fill:hover{
+    color: yellow;
+    text-shadow: 0px 0px 20px yellow;
+ 
+
+}
